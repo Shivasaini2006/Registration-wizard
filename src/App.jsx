@@ -27,7 +27,7 @@ function App() {
   });
 
   const onSubmit = (data) => {
-    console.log('Final Form Data:', data);
+    // Process form data here (e.g. send to API)
     setIsSuccess(true);
   };
 
